@@ -1,0 +1,4 @@
+1. Install NodeJs  -> https://nodejs.org/en/
+2. Open the Project in VsCode -> https://code.visualstudio.com/download
+3. npm install
+4. npm start
